@@ -109,7 +109,7 @@ This is especially useful for first-time players who want a precise score at the
 
 ## Play it
 
-[Link goes here once GitHub Pages is enabled]
+**[▶ Play it now](https://amosgv.github.io/go-9x9-bot/)** — runs in your browser, no install required.
 
 Or download `index.html` and open it locally.
 
